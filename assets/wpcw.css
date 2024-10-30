@@ -1,0 +1,46 @@
+.TB_modal{
+	background-color: #f8f8f8;
+}
+#wpdoor_message{
+	
+}
+#wpdoor_message h1{
+	color: #fff;
+	background-color: #ff3200;
+	padding: 5px; margin: 0;
+	line-height: 1;
+	font-size: 200%;
+	
+	text-align: center !important;
+}
+
+#wpdoor_msg{
+	display: block;
+	background-color:#FFF ;
+	line-height: 1.8;
+	color: #333;
+	
+	height: 200px;
+	overflow: auto;
+	margin: 10px 0;
+	border: 1px dotted #ccc;
+	padding: 0 10px;
+}
+
+#wpdoor_btn{
+	display: block;
+	background-color: #FFF;
+	text-align: center;
+}
+#wpdoor_btn a, #wpdoor_btn a:visited{
+	width: 40%;
+	float: left;
+	padding: 8px;
+	background-color: #fdffd4;
+	font-weight: bold;
+	color: #333 !important;
+}
+a.wpdoor_enter, a.wpdoor_enter:visited{
+	float: right !important;
+	background-color: #c7ffa7 !important;
+}
